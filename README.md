@@ -1,7 +1,13 @@
-## Hi there 👋
+## Sobre el autor 👋
 
 <!--
-**arellanmarcelo/arellanmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> Me llamo Marcelo, estudié economía en la Universidad Nacional del Callao (Callao, Perú) y actualmente me encuentro estudiando una maestría en economía en la Universidad de Buenos Aires (Buenos Aires, Argentina). Mis intereses están ligados a los tópicos de economía de la educación, desarrollo económico y microeconomía aplicada. .
+
+Si deseas consultar algo, te dejo mis correos de contacto:
+
+📫: arellanmarcelo@gmail.com
+
+📫: arellanmarcelo@gmail.com
 
 Here are some ideas to get you started:
 
