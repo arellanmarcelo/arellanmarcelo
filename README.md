@@ -6,5 +6,5 @@ Si deseas consultar algo, te dejo mis correos de contacto:
 
 📫: 26ro34313587@campus.economicas.uba.ar |
 📫: arellanmarcelo@gmail.com |
-📫: amrodrigueza@unac.edu.pe@unac.edu.pe
+📫: amrodrigueza@unac.edu.pe
 
